@@ -1,0 +1,231 @@
+{
+  "result": {
+    "items": [
+      {
+        "jobId": 1,
+        "positionName": "Gerber Operatörü",
+        "companyName": "Testoğlu Limited Şirketi",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "wayWorking": "Tam Zamanlı",
+        "positionLevel": "Orta düzey yönetici",
+        "department": "Şatış ve Pazarlama",
+        "applyNumber": "280",
+        "jobRequirements": "Afrika ve Orta Asya Bölgelerindeki Müşterilerimize Ürün Tedarik\n        Hizmeti + Toptan satış hizmeti veren , Ayrıca Çelik Konstruksiyon Hangar imalatı yapan şirketimiz için;",
+        "requirementsContent": [
+          "İyi derecede İngilizce ve Fransızca ( Tercihen ) bilen,",
+          "Yurtdışı seyahat engeli olmayan,",
+          "İş disiplini ve takip yeteneği olan, yeniliklere açık,",
+          "İletişim becerileri gelişmiş, ikna kabiliyeti yüksek,",
+          "İstanbul Avrupa Yakasında İkamet Eden,",
+          "Ekip Çalışmasına yatkın, ürün bilgisi ve yönlendirme süreçlerinde deneyimli,",
+          "Planlama ve Organizasyon becerileri gelişmiş,",
+          "MS Office programlarını etkin olarak kullanabilen,"
+        ],
+        "jobDescription": [
+          "Potansiyel müşterilerin tespit edilmesi ve müşteri portföyünün genişletilmesi,",
+          "Yeni pazar ve müşteri araştırmalarının yapılması,",
+          "Sorumlu olduğu bölgede aktif ziyaretler yaparak satışa yönelik yeni fırsatlar geliştirilmesi,"
+        ],
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": 2,
+        "positionName": "Rodaj Öperatörü",
+        "companyName": "Yorglass Anonim Şirketi",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "Bolu",
+        "townName": "Organize Sanayi Mahallesi",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "wayWorking": "Tam Zamanlı",
+        "positionLevel": "Orta düzey yönetici",
+        "department": "Üretim",
+        "applyNumber": "354",
+        "jobRequirements": "Afrika ve Orta Asya Bölgelerindeki Müşterilerimize Ürün Tedarik\n        Hizmeti + Toptan satış hizmeti veren , Ayrıca Çelik Konstruksiyon Hangar imalatı yapan şirketimiz için;",
+        "requirementsContent": [
+          "İyi derecede İngilizce ve Fransızca ( Tercihen ) bilen",
+          "Yurtdışı seyahat engeli olmayan,",
+          "İş disiplini ve takip yeteneği olan, yeniliklere açık,",
+          "İletişim becerileri gelişmiş, ikna kabiliyeti yüksek,",
+          "İstanbul Avrupa Yakasında İkamet Eden,",
+          "Ekip Çalışmasına yatkın, ürün bilgisi ve yönlendirme süreçlerinde deneyimli,",
+          "Planlama ve Organizasyon becerileri gelişmiş,",
+          "MS Office programlarını etkin olarak kullanabilen,"
+        ],
+        "jobDescription": [
+          "Potansiyel müşterilerin tespit edilmesi ve müşteri portföyünün genişletilmesi,",
+          "Yeni pazar ve müşteri araştırmalarının yapılması,",
+          "Sorumlu olduğu bölgede aktif ziyaretler yaparak satışa yönelik yeni fırsatlar geliştirilmesi,"
+        ],
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": 3,
+        "positionName": "Makine Mühendisi",
+        "companyName": "Z-K Mühendislik",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "Düzce",
+        "townName": "Ağa Mahallesi",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "wayWorking": "Tam Zamanlı",
+        "positionLevel": "Uzman Yardımcısı",
+        "department": "Üretim",
+        "applyNumber": "140",
+        "jobRequirements": "Afrika ve Orta Asya Bölgelerindeki Müşterilerimize Ürün Tedarik\n        Hizmeti + Toptan satış hizmeti veren , Ayrıca Çelik Konstruksiyon Hangar imalatı yapan şirketimiz için;",
+        "requirementsContent": [
+          "İyi derecede İngilizce ve Fransızca ( Tercihen ) bilen",
+          "Yurtdışı seyahat engeli olmayan,",
+          "İş disiplini ve takip yeteneği olan, yeniliklere açık,",
+          "İletişim becerileri gelişmiş, ikna kabiliyeti yüksek,",
+          "İstanbul Avrupa Yakasında İkamet Eden,",
+          "Ekip Çalışmasına yatkın, ürün bilgisi ve yönlendirme süreçlerinde deneyimli,",
+          "Planlama ve Organizasyon becerileri gelişmiş,",
+          "MS Office programlarını etkin olarak kullanabilen,"
+        ],
+        "jobDescription": [
+          "Potansiyel müşterilerin tespit edilmesi ve müşteri portföyünün genişletilmesi,",
+          "Yeni pazar ve müşteri araştırmalarının yapılması,",
+          "Sorumlu olduğu bölgede aktif ziyaretler yaparak satışa yönelik yeni fırsatlar geliştirilmesi,"
+        ],
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": 4,
+        "positionName": "Yönetici Asistanı",
+        "companyName": "Anlaş Otomasyon",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İzmir",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "wayWorking": "Tam Zamanlı",
+        "positionLevel": "Asistan",
+        "department": "Satın Alma",
+        "applyNumber": "156",
+        "jobRequirements": "Afrika ve Orta Asya Bölgelerindeki Müşterilerimize Ürün Tedarik\n        Hizmeti + Toptan satış hizmeti veren , Ayrıca Çelik Konstruksiyon Hangar imalatı yapan şirketimiz için;",
+        "requirementsContent": [
+          "İyi derecede İngilizce ve Fransızca ( Tercihen ) bilen",
+          "Yurtdışı seyahat engeli olmayan,",
+          "İş disiplini ve takip yeteneği olan, yeniliklere açık,",
+          "İletişim becerileri gelişmiş, ikna kabiliyeti yüksek,",
+          "İstanbul Avrupa Yakasında İkamet Eden,",
+          "Ekip Çalışmasına yatkın, ürün bilgisi ve yönlendirme süreçlerinde deneyimli,",
+          "Planlama ve Organizasyon becerileri gelişmiş,",
+          "MS Office programlarını etkin olarak kullanabilen,"
+        ],
+        "jobDescription": [
+          "Potansiyel müşterilerin tespit edilmesi ve müşteri portföyünün genişletilmesi,",
+          "Yeni pazar ve müşteri araştırmalarının yapılması,",
+          "Sorumlu olduğu bölgede aktif ziyaretler yaparak satışa yönelik yeni fırsatlar geliştirilmesi,"
+        ],
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      },
+      {
+        "jobId": 5,
+        "positionName": "Depo Sorumlusu",
+        "companyName": "XYZ Şirketi",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "https://localhost/bluecollar/company/job/Default/6.jpg",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "Ankara",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "wayWorking": "Part Time",
+        "positionLevel": "Orta düzey yönetici",
+        "department": "Depo",
+        "applyNumber": "124",
+        "jobRequirements": "Afrika ve Orta Asya Bölgelerindeki Müşterilerimize Ürün Tedarik\n        Hizmeti + Toptan satış hizmeti veren , Ayrıca Çelik Konstruksiyon Hangar imalatı yapan şirketimiz için;",
+        "requirementsContent": [
+          "İyi derecede İngilizce ve Fransızca ( Tercihen ) bilen",
+          "Yurtdışı seyahat engeli olmayan,",
+          "İş disiplini ve takip yeteneği olan, yeniliklere açık,",
+          "İletişim becerileri gelişmiş, ikna kabiliyeti yüksek,",
+          "İstanbul Avrupa Yakasında İkamet Eden",
+          "Ekip Çalışmasına yatkın, ürün bilgisi ve yönlendirme süreçlerinde deneyimli",
+          "Planlama ve Organizasyon becerileri gelişmiş",
+          "MS Office programlarını etkin olarak kullanabilen"
+        ],
+        "jobDescription": [
+          "Potansiyel müşterilerin tespit edilmesi ve müşteri portföyünün genişletilmesi,",
+          "Yeni pazar ve müşteri araştırmalarının yapılması,",
+          "Sorumlu olduğu bölgede aktif ziyaretler yaparak satışa yönelik yeni fırsatlar geliştirilmesi,"
+        ],
+        "contactPhone": {
+          "countryCallingCode": "+90",
+          "areaCode": "879",
+          "number": "9797979"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "result": {
+    "items": [
+      {
+        "jobId": 1,
+        "positionName": "Gerber Operatörü",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İstanbul",
+        "townName": "Çengelköy Mahallesi"
+      },
+      {
+        "jobId": 2,
+        "positionName": "Rodaj Öperatörü",
+        "companyName": "Yorglass Anonim Şirketi",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Bolu",
+        "townName": "Organize Sanayi Mahallesi"
+      },
+      {
+        "jobId": 3,
+        "positionName": "Makine Mühendisi",
+        "companyName": "Z-K Mühendislik",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Düzce",
+        "townName": "Ağa Mahallesi"
+      },
+      {
+        "jobId": 4,
+        "positionName": "Yönetici Asistanı",
+        "companyName": "Anlaş Otomasyon",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "İzmir",
+        "townName": "Dikili Mahallesi"
+      },
+      {
+        "jobId": 5,
+        "positionName": "Depo Sorumlusu",
+        "companyName": "XYZ Şirketi",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "imageUrl": "http://localhost/bluecollar/Company/Job/000/000/000/avatar/13920170713010155805.jpg",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "Ankara",
+        "townName": "Tunalı Mahallesi"
+      }
+    ],
+    "total": 5
+  }
+}
