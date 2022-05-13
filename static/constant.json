@@ -1,0 +1,24 @@
+{
+  "headerItems": [
+    {
+      "id": 1,
+      "name": "İş Ara",
+      "link": "/joblist"
+    },
+    {
+      "id": 2,
+      "name": "Kariyer Rehberi",
+      "link": "/joblist"
+    },
+    {
+      id: 3,
+      "name": "Pozisyon Rehberi",
+      "link": "/joblist"
+    },
+    {
+      id: 4,
+      "name": "Üniversite Rehberi",
+      "link": "/joblist"
+    }
+  ]
+}
